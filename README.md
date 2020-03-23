@@ -17,7 +17,7 @@ Create a simple Google Slides presentation on the notebook projects/products you
 - 1: Describe the tech, who built it, what its key features are
 - 2: Explain the special features that the creators stress
 - 3: Compare it to Jupyter
-- 4: Contrst against Jupyter, what does it do that is really different
+- 4: Contrast against Jupyter, what does it do that is really different
 - 5: Explain where you might use this instead of Jupyter
 - 6: Give a reommendation as to whether or not you'd like to use it.
 
